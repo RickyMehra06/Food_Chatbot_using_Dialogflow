@@ -1,0 +1,8 @@
+pandas
+numpy
+mysql-connector-python
+fastapi[all]
+requests
+datetime
+
+
